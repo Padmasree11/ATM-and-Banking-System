@@ -56,6 +56,7 @@ Specifying the context and requirements of a system
 
 
 # CLASS DIAGRAM
+<img width="910" height="583" alt="image" src="https://github.com/user-attachments/assets/3b70e538-293e-42c6-85e6-8d4369998774" />
 
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
@@ -115,7 +116,7 @@ Describe the steps performed in a UML use case.
 
 
 # SEQUENCE DIAGRAM
-<img width="926" height="802" alt="image" src="https://github.com/user-attachments/assets/bd966913-eea2-4ac3-bde2-65590d6b9cc6" />
+
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
