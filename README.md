@@ -116,6 +116,7 @@ Describe the steps performed in a UML use case.
 
 
 # SEQUENCE DIAGRAM
+<img width="1062" height="853" alt="image" src="https://github.com/user-attachments/assets/9aca6ec3-5bcd-4950-815d-729ca3bcc538" />
 
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
